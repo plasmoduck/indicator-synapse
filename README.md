@@ -1,5 +1,7 @@
 # Indicator Synapse
 
+For those of you who can't live without the useful indicator-synapse, it now works with elementary os loki :-)
+
 This codebase bundles the original [Synapse Launcher project](https://launchpad.net/synapse-project) code and retains its original license. It does not use Synapse's UI part and instead provides a Wingpanel indicator.
 
 ![Screenshot](https://raw.githubusercontent.com/tom95/indicator-synapse/master/screenshots/Screenshot.png)
