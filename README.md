@@ -8,6 +8,7 @@ This codebase bundles the original [Synapse Launcher project](https://launchpad.
 
 ### Build instructions
 ```
+git clone https://github.com/plasmoduck/indicator-synapse/
 mkdir build
 cd build
 cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/usr ../
